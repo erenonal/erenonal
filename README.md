@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg)
 
-[![](https://img.shields.io/github/followers/erenonal?style=social)](https://www.github.com/erenonal)
+[![](https://img.shields.io/github/followers/erenonal?style=social)](https://instagram.com/erenonal.jpg)
