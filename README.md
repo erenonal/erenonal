@@ -3,8 +3,8 @@
 ### Hello there, I'm Eren 👋
 
 - 🏃‍♂️I'm running to improve myself in data science and machine learning
-- :writing_hand:	
-- 📜 I share on Linkedin for people who decided to go the same route as me while I was developing myself, or just for people who are curious.
+- ✍️ I use github to share the codes I learned from the lessons and also the projects I've applied.
+- 📜 Also I share articles on Linkedin for people who decided to go the same route as me while I was developing myself, or just for people who are curious.
 
 📫 How to reach me: 
 
