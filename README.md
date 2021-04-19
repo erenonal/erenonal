@@ -3,6 +3,7 @@
 ### Hello there, I'm Eren 👋
 
 - 🏃‍♂️I'm running to improve myself in data science and machine learning
+- :writing_hand:	
 - 📜 I share on Linkedin for people who decided to go the same route as me while I was developing myself, or just for people who are curious.
 
 📫 How to reach me: 
