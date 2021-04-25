@@ -1,4 +1,8 @@
+**Profile Views**
 
+![Visitor Count](https://profile-counter.glitch.me/{erenonal}/count.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true&theme=white)
 
 ### Hello there, I'm Eren 👋
 
@@ -11,4 +15,16 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1erenonal/)
 
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg)
+
+
+
+
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/1erenonal/) [<img alt="Gmail" src="https://img.shields.io/badge/@1ONALEREN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](1onaleren@gmail.com)
+
+
+
+    
+
+
 
