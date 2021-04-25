@@ -19,7 +19,8 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/1erenonal/)
 
-[<img alt="Gmail" src="https://img.shields.io/badge/@1ONALEREN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mailto:1onaleren@gmail.com)  
+[<img alt="Gmail" src="https://img.shields.io/badge/@1ONALEREN@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
+< a href="mailto:1onaleren@gmail.com">Eren< /a>
 
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg"/>](https://instagram.com/erenonal.jpg) 
 
