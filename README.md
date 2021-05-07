@@ -11,7 +11,7 @@
 - 📜 Also I share articles on Linkedin for people who decided to go the same route as me while I was developing myself, or just for people who are curious.
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning
 
-📫 How to reach me:
+📫 How to reach me: 
 
 
 
