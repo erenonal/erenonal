@@ -11,10 +11,10 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
 
 **Profile Views**
-![Visitor Count](https://profile-counter.glitch.me/{erenonal}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{erenonal}/count.svg) <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true&theme=white)
 
 
