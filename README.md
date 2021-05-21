@@ -12,7 +12,7 @@
 **Profile Views**
 ![Visitor Count](https://profile-counter.glitch.me/{erenonal}/count.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true&theme=dark)
 
 
 **Languages and Tools:** 
