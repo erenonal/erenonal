@@ -1,4 +1,4 @@
-### Hello there, I'm Eren 👋
+### Hello there, I'm Eren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 - 🏃‍♂️I'm running for improve myself in data science and machine learning
 - ✍️ I use github to share the codes I learned from the lessons and also the projects I've applied.
@@ -6,24 +6,21 @@
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning
 
 📫 How to reach me: 
-
-
-
-
-
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/1erenonal/)   [<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg"/>](https://instagram.com/erenonal.jpg)   [<img alt="Gmail" src="https://img.shields.io/badge/@1onaleren@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mailto:1onaleren@gmail.com)  
 
+
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
+
 **Profile Views**
-
 ![Visitor Count](https://profile-counter.glitch.me/{erenonal}/count.svg)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true&theme=white)
 
 
 **Languages and Tools:** 
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
+<p 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
@@ -37,3 +34,4 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual_studio_code" width="40" height="40"/> 
 </a>
 </p>
+
