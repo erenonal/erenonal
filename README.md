@@ -6,9 +6,6 @@
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning 
 - If you want to contact me, you can send an e-mail to  [![Gmail Badge](https://img.shields.io/badge/1onaleren@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:1onaleren@gmail.com)](mailto:1onaleren@gmail.com)
 
-![rand](https://rand-xyz.now.sh/api/hello)
-
-
 **Languages and Tools:** 
 
 <p 
@@ -25,6 +22,7 @@
 <img alt="linux" width="40px" src="https://img.icons8.com/color/96/000000/linux.png">
 </a>
 
+![rand](https://rand-xyz.now.sh/api/hello)
 </p>
 
 
