@@ -1,3 +1,5 @@
+![rand](https://rand-xyz.now.sh/api/hello)
+
 ### Hello there, I'm Eren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 - 🏃‍♂️I'm running for improve myself in data science and machine learning
@@ -34,4 +36,6 @@
 </a>
 
 </p>
+
+![rand](https://rand-xyz.now.sh/api/hello)
 
