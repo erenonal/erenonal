@@ -2,9 +2,10 @@
 
 - 🏃‍♂️I'm running for improve myself in data science and machine learning
 - :computer: I use github to share the codes I learned from the lessons and also the projects I've applied.
-- 📜 Also I share articles on [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/1erenonal/)   for people who decided to go the same route as me while I was developing myself, or just for people who are curious. 
+- 📜 Also I share articles on Linkedin for people who decided to go the same route as me while I was developing myself, or just for people who are curious. 
 - :eye: Looking for Python, Data Science, Machine Learning, AI, Deep Learning 
-- :mailbox_with_mail: If you want to contact me, you can send an e-mail to  [![Gmail Badge](https://img.shields.io/badge/1onaleren@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:1onaleren@gmail.com)](mailto:1onaleren@gmail.com)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenonal" alt="erenonal" /> </p>
 
 **Languages and Tools:** 
 
@@ -26,4 +27,9 @@
 </p>
 
 
+[![Mail Badge](https://img.shields.io/badge/1onaleren@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1onaleren@gmail.com)](mailto:1onaleren@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1erenonal/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenonal.jpg)
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=erenonal&show_icons=true">
 
