@@ -38,4 +38,4 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1erenonal/)
 
-[![Mail Badge](https://img.shields.io/badge/onal.eren@hotmail.com-c14438?style=for-the-badge&logo=Hotmail&logoColor=white&link=mailto:onal.eren@hotmail.com)](mailto:onal.eren@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/onal.eren%40hotmail.com-%230078D4?style=for-the-badge&logo=mail.ru&logoColor=white&link=mailto:onal.eren%40hotmail.com)](mailto:onal.eren@hotmail.com)
