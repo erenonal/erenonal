@@ -6,26 +6,14 @@ A front-end developer from Ankara, Turkey, with a rich background in computer sc
 **Languages and Tools:** 
 
 <p 
-  <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react-js" width="40" height="40"/> 
-</a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="vue-js" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="pycharm" width="40" height="40"/> 
-</a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual_studio_code" width="40" height="40"/> 
-</a>
+  <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="react-js" width="30" height="30"/> 
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="vue-js" width="30" height="30"/> 
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="java-script" width="30" height="30"/> 
+<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 <img alt="linux" width="40px" src="https://img.icons8.com/color/96/000000/linux.png">
-</a>
-<a>
 <img alt="docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/640px-Docker-svgrepo-com.svg.png">
-</a>
-<a>
-<img alt="docker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png">
-</a>
+<img alt="docker" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/640px-Jenkins_logo.svg.png">
 
 ![rand](https://rand-xyz.now.sh/api/hello)
 </p>
