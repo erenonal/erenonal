@@ -1,6 +1,6 @@
 ### Hello there, I'm Eren <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-:eye: Looking for Front end & AI
+A front-end developer from Ankara, Turkey, with a rich background in computer science and electrical engineering. My expertise spans across Vue, React, TypeScript, JavaScript, and Python.I led the development of a real-time data visualization dashboard, showcasing my project management and innovative skills. I've also ventured into AI and data science, developing interfaces and models for efficient data processing. Committed to continuous learning, I've earned several certifications in key tech areas. My work ethic is driven by a passion for crafting user-friendly interfaces and a constant pursuit to stay ahead in the fast-evolving tech landscape.
 
 
 **Languages and Tools:** 
